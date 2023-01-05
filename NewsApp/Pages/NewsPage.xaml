@@ -19,8 +19,8 @@
             </CollectionView.ItemTemplate>
         </CollectionView>
         <CollectionView Grid.Row="2" x:Name="CvNews">
-        <CollectionView.ItemsLayout>
-            <LinearItemsLayout Orientation="Horizontal" ItemSpacing="15"/>
+        <CollectionView.ItemsLayout>s
+            <LinearItemsLayout Orientation="Vertical" ItemSpacing="15"/>
         </CollectionView.ItemsLayout>
         <CollectionView.ItemTemplate>
             <DataTemplate>
